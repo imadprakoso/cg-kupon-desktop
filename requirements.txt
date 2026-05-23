@@ -1,0 +1,4 @@
+PyMuPDF
+reportlab
+PyPDF2
+pyinstaller
